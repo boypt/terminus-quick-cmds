@@ -4,7 +4,7 @@
   "description": "Quick commands manager for Tabby",
   "homepage": "https://github.com/minyoad/terminus-quick-cmds",
   "keywords": [
-    "terminus-plugin",
+    "tabby-plugin",
     "tabby-plugin",
     "quick-commands"
   ],
@@ -40,9 +40,9 @@
     "@angular/core": "^4.1.3",
     "@angular/forms": "^4.1.3",
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.29",
-    "terminus-core": "*",
-    "terminus-settings": "*",
-    "terminus-terminal": "*"
+    "tabby-core": "^1.0.156",
+    "tabby-settings": "^1.0.156",
+    "tabby-terminal": "^1.0.156"
   },
   "dependencies": {
     "@angular/common": "^13.3.2",
@@ -51,9 +51,9 @@
     "@ng-bootstrap/ng-bootstrap": "^12.0.2",
     "node": "14.15.0",
     "rxjs": "^7.5.5",
-    "terminus-core": "^1.0.140",
-    "terminus-settings": "^1.0.140",
-    "terminus-terminal": "^1.0.140",
+    "tabby-core": "^1.0.156",
+    "tabby-settings": "^1.0.156",
+    "tabby-terminal": "^1.0.156",
     "ts-loader": "^9.2.8"
   },
   "repository": {
